@@ -1,0 +1,25 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width:100%;
+    text-align: left;
+}
+.heading h3{
+    display:inline;
+}
+.heading button{
+    float:right;
+    border:1px solid white;
+}
+h4{
+    background-color: azure;
+    line-height: 2;
+    margin-top: 480px;
+    position: fixed;
+    width:100%;
+}
+#canvas{
+    box-shadow: 0px 0px solid blue;
+    border-color: pink;
+}
